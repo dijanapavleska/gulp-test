@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../img/dune-bg.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+main {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+h1 {
+    flex-direction: column;
+    margin-top: 600px;
+    font-family: "Open + Sans";
+    font-size: 50px;
+
+}
+
+span {
+    font-size: 70px;
+}
+
+h2 {
+
+    font-family: "Open + Sans";
+    font-size: 50px;
+    text-align: right;
+
+}
